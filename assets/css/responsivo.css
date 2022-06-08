@@ -1,5 +1,5 @@
 /* TABLETS */
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 768px) and (max-width: 1023px){
     .nova-transacao {
         padding: 20px;
         margin: 20px 2%;
